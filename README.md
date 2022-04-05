@@ -17,7 +17,7 @@ Sou a Jasmine e sejam bem-vindos ao meu perfil!
 </div>
 
 ### Estatísticas:
-<div width="150" height="150">
+<div align="center">
 <a href="https://github.com/jasminebergamo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasminebergamo&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jasminebergamo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
